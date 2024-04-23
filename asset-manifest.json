@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//antirain114.github.io/LANDINGFORIN/static/css/main.ae42ac5f.css",
+    "main.js": "//antirain114.github.io/LANDINGFORIN/static/js/main.e2bed682.js",
+    "index.html": "//antirain114.github.io/LANDINGFORIN/index.html",
+    "main.ae42ac5f.css.map": "//antirain114.github.io/LANDINGFORIN/static/css/main.ae42ac5f.css.map",
+    "main.e2bed682.js.map": "//antirain114.github.io/LANDINGFORIN/static/js/main.e2bed682.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.e2bed682.js"
+  ]
+}
